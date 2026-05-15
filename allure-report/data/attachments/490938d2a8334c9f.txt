@@ -1,3 +1,0 @@
-========== END TO END WORKFLOW STARTED ==========
-Generated unique email: manya1778761897657@gmail.com
-STEP 1: Registering new user...
