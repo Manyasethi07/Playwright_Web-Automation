@@ -1,0 +1,22 @@
+
+============= API TEST RESULT =============
+
+API URL:
+https://automationexercise.com/api/productsList
+
+-------------------------------------------
+
+HTTP STATUS:
+200
+
+-------------------------------------------
+
+API RESPONSE CODE:
+405
+
+-------------------------------------------
+
+MESSAGE:
+This request method is not supported.
+
+===========================================

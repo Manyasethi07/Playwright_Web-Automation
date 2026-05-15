@@ -1,0 +1,4 @@
+========== END TO END WORKFLOW STARTED ==========
+Generated unique email: tester1778765871954@gmail.com
+STEP 1: Registering new user...
+✓ Account created successfully.

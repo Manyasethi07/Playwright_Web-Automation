@@ -1,0 +1,7 @@
+//BeforeEach Hook Started: User Login
+Navigating to Automation Exercise home page
+Opening Signup / Login page
+Logging in with credentials from .env
+Verifying successful login...
+✓ Login successful.
+//BeforeEach Hook Completed

@@ -1,0 +1,74 @@
+
+================ API TEST RESULT ================
+
+API URL:
+https://automationexercise.com/api/getUserDetailByEmail
+
+-------------------------------------------------
+
+REQUEST METHOD:
+GET
+
+-------------------------------------------------
+
+REQUEST PARAMETER:
+email = automationtester099@gmail.com
+
+-------------------------------------------------
+
+HTTP STATUS:
+200
+
+-------------------------------------------------
+
+API RESPONSE CODE:
+200
+
+-------------------------------------------------
+
+USER DETAILS:
+{
+  "id": 1707628,
+  "name": "automationtester",
+  "email": "automationtester099@gmail.com",
+  "title": "Mrs",
+  "birth_day": "15",
+  "birth_month": "",
+  "birth_year": "",
+  "first_name": "automation",
+  "last_name": "tester",
+  "company": "",
+  "address1": "chd",
+  "address2": "",
+  "country": "India",
+  "state": "haryana",
+  "city": "ambala",
+  "zipcode": "123456"
+}
+
+-------------------------------------------------
+
+FULL RESPONSE:
+{
+  "responseCode": 200,
+  "user": {
+    "id": 1707628,
+    "name": "automationtester",
+    "email": "automationtester099@gmail.com",
+    "title": "Mrs",
+    "birth_day": "15",
+    "birth_month": "",
+    "birth_year": "",
+    "first_name": "automation",
+    "last_name": "tester",
+    "company": "",
+    "address1": "chd",
+    "address2": "",
+    "country": "India",
+    "state": "haryana",
+    "city": "ambala",
+    "zipcode": "123456"
+  }
+}
+
+=================================================
